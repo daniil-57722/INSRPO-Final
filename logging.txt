@@ -1,0 +1,14 @@
+нояб. 24, 2021 9:17:26 PM ParallelDownloading.launch main
+INFO: Программа запущена
+нояб. 24, 2021 9:17:26 PM ParallelDownloading.launch main
+INFO: Считывание ссылок
+нояб. 24, 2021 9:17:27 PM ParallelDownloading.DownloadThread run
+INFO: процесс скачивания image.jpg файла завершился
+нояб. 24, 2021 9:17:27 PM ParallelDownloading.DownloadThread run
+INFO: файл находится по пути D:\ParallelDownload\parallel\images
+нояб. 24, 2021 9:17:33 PM ParallelDownloading.DownloadThread run
+INFO: процесс скачивания music.mp3 файла завершился
+нояб. 24, 2021 9:17:33 PM ParallelDownloading.DownloadThread run
+INFO: файл находится по пути D:\ParallelDownload\parallel\musics
+нояб. 24, 2021 9:17:50 PM ParallelDownloading.launch main
+INFO: Сигнал на запуск музыки

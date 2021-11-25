@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ParallelDownloading","l":"Class"},{"p":"ParallelDownloading","l":"DownloadThread"},{"p":"ParallelDownloading","l":"launch"},{"p":"ParallelDownloading","l":"Magic"},{"p":"ParallelDownloading","l":"Main"},{"p":"ParallelDownloading","l":"playmusic"}];updateSearchResults();
